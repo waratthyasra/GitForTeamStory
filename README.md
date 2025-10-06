@@ -24,10 +24,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![pirate](pirate.png)
 
 7. A rocket blasted off, but at the same time the **time machine** broke down. 
-   ![rocket](roket.png) 
+   ![rocket](img/roket.png) 
 
 8. The cat was supposed to talk here, but the line is missing.
-   ![alien](alien.png)
+   ![cat](img/cat.png)
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)
