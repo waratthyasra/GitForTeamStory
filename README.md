@@ -24,7 +24,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![orge](img/ogre.png)
 
 7. A rocket blasted off, but at the same time the **time machine** broke down. 
-   ![rocket](img/roket.png) 
+   ![rocket](img/rocket.png) 
 
 8. The cat was supposed to talk here, but the line is missing.
    ![cat](img/cat.png)
