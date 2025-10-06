@@ -8,10 +8,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **castle**.  
-   ![castle](castle.png)
-
+   ![castle](img/castle.png)
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   ![dragon](dragon.png)
+   ![dragon](img/dragon.png)
 
 3. The scientist's **crucial announcement** was, regrettably, **not recorded**.![scientist](scientist.png)  
 
