@@ -12,10 +12,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    ![dragon](img/dragon.png)
 
-3. The scientist's **crucial announcement** was, regrettably, **not recorded**.![scientist](scientist.png)  
+3. The scientist's **crucial announcement** was, regrettably, **not recorded**.![scientist](img/scientist.png)  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](treasure_large.png)
+   ![treasure chest](img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
    ![map](img/map.png) 
@@ -24,13 +24,13 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![orge](img/ogre.png)
 
 7. A rocket blasted off, but at the same time the **time machine** broke down. 
-   ![rocket](roket.png) 
+   ![rocket](img/roket.png) 
 
 8. The cat was supposed to talk here, but the line is missing.
-   ![alien](alien.png)
+   ![cat](img/cat.png)
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)
-   ![map](map.png)
+   ![map](img/map.png)
 
 10. the eiei
