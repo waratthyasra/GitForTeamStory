@@ -13,10 +13,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    ![dragon](dragon.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The scientist's **crucial announcement** was, regrettably, **not recorded**.![scientist](scientist.png)  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![treasure chest](treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
