@@ -11,7 +11,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![castle](castle.png)
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (dragon.png)
+   ![dragon](dragon.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
