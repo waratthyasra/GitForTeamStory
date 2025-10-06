@@ -31,6 +31,6 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)
-   ![map](map.png)
+   ![map](img/map.png)
 
 10. the eiei
