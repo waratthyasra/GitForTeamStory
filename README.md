@@ -34,4 +34,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    (What did they find?)
    ![map](map.png)
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. the eiei
